@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/pgadea/breakout-game/static/css/main.ab57c65c.css",
-    "main.js": "/pgadea/breakout-game/static/js/main.9640e6f1.js",
-    "static/js/787.6b6f0ef0.chunk.js": "/pgadea/breakout-game/static/js/787.6b6f0ef0.chunk.js",
-    "index.html": "/pgadea/breakout-game/index.html",
-    "main.ab57c65c.css.map": "/pgadea/breakout-game/static/css/main.ab57c65c.css.map",
-    "main.9640e6f1.js.map": "/pgadea/breakout-game/static/js/main.9640e6f1.js.map",
-    "787.6b6f0ef0.chunk.js.map": "/pgadea/breakout-game/static/js/787.6b6f0ef0.chunk.js.map"
+    "main.css": "/breakout-game/static/css/main.ab57c65c.css",
+    "main.js": "/breakout-game/static/js/main.77bb4a64.js",
+    "static/js/787.6b6f0ef0.chunk.js": "/breakout-game/static/js/787.6b6f0ef0.chunk.js",
+    "index.html": "/breakout-game/index.html",
+    "main.ab57c65c.css.map": "/breakout-game/static/css/main.ab57c65c.css.map",
+    "main.77bb4a64.js.map": "/breakout-game/static/js/main.77bb4a64.js.map",
+    "787.6b6f0ef0.chunk.js.map": "/breakout-game/static/js/787.6b6f0ef0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ab57c65c.css",
-    "static/js/main.9640e6f1.js"
+    "static/js/main.77bb4a64.js"
   ]
 }
